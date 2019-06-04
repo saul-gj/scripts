@@ -1,0 +1,2 @@
+# scripts
+scripts；community-configs
